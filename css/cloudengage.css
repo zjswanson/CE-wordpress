@@ -1,0 +1,9 @@
+
+.frame-wrapper {
+    padding: 20px 20px 20px 0px;
+}
+
+iframe#childFrame {
+    height: 600px;
+    min-width: 600px;
+}
